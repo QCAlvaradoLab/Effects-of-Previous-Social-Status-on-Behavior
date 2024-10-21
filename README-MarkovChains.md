@@ -3,7 +3,7 @@
 This code analyzes and processes behavioral data, particularly focusing on animal behavior and interactions.
 It aims to visualise and analyse behavior patterns and modeling interactions between different fish.
 
-**What is the significance of using Markov Chain Modelling? **
+**What is the significance of using Markov Chain Modelling?**
 
 Markov Chains are well-suited for predicting sequential animal behavior as they capture the probabilistic nature of transitions between states, where future behavior depends only on the current state. 
 Their ability to handle stochastic processes makes them a powerful tool for forecasting behavioral sequences in any environment, especially as utilised here for animal behavior.
