@@ -14,6 +14,8 @@ Their ability to handle stochastic processes makes them a powerful tool for fore
  - The project includes a custom function `my_draw_networkx_edge_labels` to draw edge labels on network graphs with customizable parameters,
    making it easier to visualize connections between different nodes and behaviors. This was adapted from this Stack Overflow post: 
 
+https://stackoverflow.com/questions/22785849/drawing-multiple-edges-between-two-nodes-with-networkx
+
 **2. Behavior Data Processing:**
    - Several functions manipulate behavioral data.
    - For instance, behavior data is looped over, edited, and appended to lists for further analysis, ensuring unique behavior sets and identifiers are maintained.
